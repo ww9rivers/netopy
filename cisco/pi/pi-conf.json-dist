@@ -1,0 +1,15 @@
+{
+"":
+[
+	"Distributed configuration for Cisco Prime Infrastructure API"
+],
+
+	"server":	"<server-hostname-or-ip-address>",
+	"auth":
+	{
+		"user":		"<userid>",
+		"pw":		"<password-for-user>"
+	},
+
+"":	"-- End --"
+}
